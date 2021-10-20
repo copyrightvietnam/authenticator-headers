@@ -1,0 +1,11 @@
+.bzr
+*.pyc
+__pycache__
+/.testrepository
+*.egg-info
+dist/
+build/
+test.py
+authheaders/test/authheaders
+PKG-INFO
+setup.cfg
